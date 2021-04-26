@@ -1,0 +1,27 @@
+---
+course_id: 1-221j-transportation-systems-fall-2004
+layout: course_section
+menu:
+  leftnav:
+    identifier: b81e0cfa368c050a30d02502b8824c8b
+    name: Lecture Notes
+    weight: 40
+title: Lecture Notes
+type: course
+uid: b81e0cfa368c050a30d02502b8824c8b
+
+---
+
+| Lec # | 2004 LECTURE NOTES | 2002 full noteS |
+| --- | --- | --- |
+| {{< td-colspan 3 >}}**Block I: Introduction / Philosophy / Basic Transportation Systems Concepts**{{< /td-colspan >}} |||
+| 1 | Introduction: Context, Concepts, and Characterization ([PDF]({{< baseurl >}}/sections/lecture-notes/fa04_lecture1)) | Introduction: Context, Concepts, and Characterization ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap01)) |
+| 2-3 | Transportation System Components: An Internal and External Perspective ([PDF]({{< baseurl >}}/sections/lecture-notes/fa04_lectures2_3)) |  {{< br >}}{{< br >}} Transportation System Components: An Internal Perspective ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap02)) {{< br >}}{{< br >}} Transportation System Components: An External Perspective ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap03)) {{< br >}}{{< br >}} The Customer and Level-of-Service ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap04)) {{< br >}}{{< br >}}  |
+| 4 | Article for Discussion ([PDF]({{< baseurl >}}/sections/lecture-notes/fa04_lex4)) | Networks ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap05)) |
+| 5-10 | Transportation Systems: 30 Key Points ([PDF]({{< baseurl >}}/sections/lecture-notes/fa04_lex5)) |  {{< br >}}{{< br >}} Transportation Systems: Key Points 1-10 ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap06)) {{< br >}}{{< br >}} Transportation Systems: Key Points 11-17 ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap07)) {{< br >}}{{< br >}} Transportation Systems: Key Points 18-24 ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap08)) {{< br >}}{{< br >}} Transportation Systems: Key Points 25-30 ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap09)) {{< br >}}{{< br >}} Models and Frameworks ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap10)) {{< br >}}{{< br >}} Modeling Concepts ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap11)) {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Block II: Freight Transportation**{{< /td-colspan >}} |||
+| 11-18 | Freight ([PDF]({{< baseurl >}}/sections/lecture-notes/fa04_lex7fwd))  {{< br >}}  {{< br >}}Rail Freight ([PDF]({{< baseurl >}}/sections/lecture-notes/fa04_lex9)) |  {{< br >}}{{< br >}} The Logistics System and Freight Level-of-Service ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap12)) {{< br >}}{{< br >}} Railroads: Introductory Concepts ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap13)) {{< br >}}{{< br >}} Railroad Operations ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap14)) {{< br >}}{{< br >}} Railroad Terminals: P-MAKE Analysis to Predict Network Performance ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap15)) {{< br >}}{{< br >}} Car Costs and Level-of-Service ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap16)) {{< br >}}{{< br >}} The Kwon Model--Power, Freight Car Fleet Size, and Service Priorities: A Simulation Application ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap17)) {{< br >}}{{< br >}} Measuring Origin-Destination Service and Other Rail Issues ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap18)) {{< br >}}{{< br >}} Trucking ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap18)) {{< br >}}{{< br >}} Ocean Shipping, International Freight, and Freight Summary ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap20)) {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Block III: Traveler Transportation**{{< /td-colspan >}} |||
+| 19-27 | Traveler Transportation and Summary ([PDF]({{< baseurl >}}/sections/lecture-notes/fa04_lex11fwd)) |  {{< br >}}{{< br >}} Traveler Transportation: Introduction ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap21)) {{< br >}}{{< br >}} Commuting, Non-work Travel and Safety, and Some Transportation History ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap)) {{< br >}}{{< br >}} Traveler Level-of-Service ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap22)) {{< br >}}{{< br >}} Intelligent Transportation Systems ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap24)) {{< br >}}{{< br >}} The Urban Transportation Planning Process and Real-Time Network Control ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap25)) {{< br >}}{{< br >}} Traffic Signals and Other Control Measures ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap26)) {{< br >}}{{< br >}} Deterministic Queuing ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap27)) {{< br >}}{{< br >}} Urban Public Transportation ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap28)) {{< br >}}{{< br >}} Intercity Traveler Transportation: Air ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap29)) {{< br >}}{{< br >}} Intercity Traveler Transportation: Rail ([PDF]({{< baseurl >}}/sections/lecture-notes/trans_sys_chap30)) {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Block IV: Summary**{{< /td-colspan >}} |||
+| 28 | Summary | Summary ([PDF]({{< baseurl >}}/sections/lecture-notes/summary))
